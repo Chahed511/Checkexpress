@@ -1,0 +1,12 @@
+{
+    "name": "checkexpress",
+    "version": "1.0.0",
+    "description": "chechpoint express simple page web",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
